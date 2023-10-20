@@ -7,7 +7,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          I mean, it didn't work with the calculator app but now it works
+          haiyaaa Amplify
         </p>
         <a
           className="App-link"
